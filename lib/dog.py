@@ -16,7 +16,6 @@ class Dog:
         self.name = name
         self.breed = breed
 
-        
     @property
     def name(self):
         return self._name
